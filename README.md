@@ -1,4 +1,4 @@
 # assets
 Using this repo purely for hosting assets to be used elsewhere
 
-[[!User Icons](users-insights-svg-icons/user-avatar-icons.png)](users-insights-svg-icons/)
+[![User Icons](users-insights-svg-icons/user-avatar-icons.png)](users-insights-svg-icons/)
